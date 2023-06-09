@@ -7,6 +7,8 @@ These builds were uploaded by 0729たいがー#2658
 | Version | Link |
 | ------------- | ------------- |
 | 21.00 | https://2.gigafile.nu/0908-m30f2cc9213485a0a11e2b3d04a4c8d35 |
+| 21.10 |  |
+| 21.20 | https://2.gigafile.nu/0908-m30f2cc9213485a0a11e2b3d04a4c8d35 |
 | 21.30 | https://2.gigafile.nu/0908-scef259f50cb2434fd22922883f692d98 |
 | 21.40 | https://2.gigafile.nu/0908-qb662a0776eed600e781fad04a1604ae0 |
 | 21.50 |  |
