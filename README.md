@@ -8,7 +8,7 @@ These builds were uploaded by 0729たいがー#2658
 | ------------- | ------------- |
 | 21.00 |  |
 | 21.10 |  |
-| 21.20 | http://fn-builds.f5.si/S21/21.20.zip |
+| 21.20 | http://fn-builds.f5.si/S21/21.20 |
 | 21.30 | http://fn-builds.f5.si/S21/21.30.zip |
 | 21.40 | http://fn-builds.f5.si/S21/21.40.zip |
 | 21.50 |  |
