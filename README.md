@@ -42,3 +42,9 @@ These builds were uploaded by 0729たいがー#2658
 | 24.20 | http://fn-builds.f5.si/S24/24.20-CL-25156858 |
 | 24.30 | http://fn-builds.f5.si/S24/24.30-CL-25347382 |
 | 24.40 | http://fn-builds.f5.si/S24/24.40-CL-25595478 |
+
+# Season25
+| Version | Link |
+| ------------- | ------------- |
+| 25.00 | https://fn-builds.f5.si/S25/25.00-CL-25909622 |
+| 25.10 | https://fn-builds.f5.si/S25/25.10-CL-26000959 |
