@@ -44,13 +44,13 @@ These builds were uploaded by 0729たいがー#2658
 | 21.10-CL-20829351 |  |
 | 21.20-CL-20890025 |  |
 | 21.20-CL-20978394 |  |
-| 21.20-CL-21035704 | http://fn-builds.f5.si/S21/21.20 |
+| 21.20-CL-21035704 | https://fn-builds.f5.si/S21/21.20-CL-21035704 |
 | 21.30-CL-21102315 |  |
-| 21.30-CL-21155462 | http://fn-builds.f5.si/S21/21.30 |
+| 21.30-CL-21155462 | https://fn-builds.f5.si/S21/21.30-CL-21155462 |
 | 21.40-CL-21348157 |  |
-| 21.40-CL-21407327 | http://fn-builds.f5.si/S21/21.40 |
+| 21.40-CL-21407327 | https://fn-builds.f5.si/S21/21.40-CL-21407327 |
 | 21.50-CL-21657658 |  |
-| 21.51-CL-21735703 | http://fn-builds.f5.si/S21/21.51 |
+| 21.51-CL-21735703 | https://fn-builds.f5.si/S21/21.51-CL-21735703 |
 
 # Season22
 | Build Version | Donwload Link |
@@ -58,45 +58,45 @@ These builds were uploaded by 0729たいがー#2658
 | 22.00-CL-22026835 |  |
 | 22.00-CL-22072684 |  |
 | 22.00-CL-22107157 |  |
-| 22.00-CL-22149829 | http://fn-builds.f5.si/S22/22.00 |
+| 22.00-CL-22149829 | https://fn-builds.f5.si/S22/22.00-CL-22149829 |
 | 22.10-CL-22240570 |  |
-| 22.10-CL-22429549 | http://fn-builds.f5.si/S22/22.10 |
+| 22.10-CL-22429549 | https://fn-builds.f5.si/S22/22.10-CL-22429549 |
 | 22.20-CL-22523251 |  |
-| 22.20-CL-22600409 | http://fn-builds.f5.si/S22/22.20 |
+| 22.20-CL-22600409 | https://fn-builds.f5.si/S22/22.20-CL-22600409 |
 | 22.30-CL-22803135 |  |
-| 22.40-CL-23070899 | http://fn-builds.f5.si/S22/22.40 |
+| 22.40-CL-23070899 | https://fn-builds.f5.si/S22/22.40-CL-23070899 |
 
 # Season23
 | Build Version | Donwload Link |
 | ------------- | ------------- |
-| 23.00-CL-23344627 | http://fn-builds.f5.si/S23/23.00 |
+| 23.00-CL-23344627 | https://fn-builds.f5.si/S23/23.00-CL-23344627 |
 | 23.10-CL-23443094 |  |
-| 23.10-CL-23572221 | https://fn-builds.f5.si/S23/23.10 |
+| 23.10-CL-23572221 | https://fn-builds.f5.si/S23/23.10-CL-23572221 |
 | 23.20-CL-23659353 |  |
-| 23.20-CL-23783097 | http://fn-builds.f5.si/S23/23.20 |
+| 23.20-CL-23783097 | https://fn-builds.f5.si/S23/23.20-CL-23783097 |
 | 23.30-CL-23901854 |  |
 | 23.30-CL-23986860 |  |
-| 23.40-CL-24087481 | http://fn-builds.f5.si/S23/23.40 |
+| 23.40-CL-24087481 | https://fn-builds.f5.si/S23/23.40-CL-24087481 |
 | 23.50-CL-24376996 |  |
-| 23.50-CL-24441668 | http://fn-builds.f5.si/S23/23.50 |
+| 23.50-CL-24441668 | https://fn-builds.f5.si/S23/23.50-CL-24441668 |
 
 # Season24
 | Build Version | Donwload Link |
 | ------------- | ------------- |
 | 24.00-CL-24554913 |  |
 | 24.01-CL-24672685 |  |
-| 24.01-CL-24757023 | http://fn-builds.f5.si/S24/24.01 |
+| 24.01-CL-24757023 | https://fn-builds.f5.si/S24/24.01-CL-24757023 |
 | 24.10-CL-24770548 |  |
-| 24.10-CL-24903530 | http://fn-builds.f5.si/S24/24.10 |
+| 24.10-CL-24903530 | https://fn-builds.f5.si/S24/24.10-CL-24903530 |
 | 24.20-CL-24939793 |  |
 | 24.20-CL-25019967 |  |
 | 24.20-CL-25058254 |  |
-| 24.20-CL-25156858 | http://fn-builds.f5.si/S24/24.20-CL-25156858 |
+| 24.20-CL-25156858 | https://fn-builds.f5.si/S24/24.20-CL-25156858 |
 | 24.30-CL-25210886 |  |
-| 24.30-CL-25347382 | http://fn-builds.f5.si/S24/24.30-CL-25347382 |
+| 24.30-CL-25347382 | https://fn-builds.f5.si/S24/24.30-CL-25347382 |
 | 24.40-CL-25420516 |  |
 | 24.40-CL-25521145 |  |
-| 24.40-CL-25595478 | http://fn-builds.f5.si/S24/24.40-CL-25595478 |
+| 24.40-CL-25595478 | https://fn-builds.f5.si/S24/24.40-CL-25595478 |
 
 # Season25
 | Build Version | Donwload Link |
